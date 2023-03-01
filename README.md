@@ -4,7 +4,7 @@
 - 👩‍🎓 Aluna na Universidade Estadual de Maringá
 - ✨ Parte do Projeto Conectadas UEM
 - 💻 Interessada em desenvolvimento
-- 
+<br></br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -14,8 +14,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
-
-
+<br></br>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylanebiazoto&layout=compact&theme=vision-friendly-dark" alt="kaylane's most languages"/>
