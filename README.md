@@ -20,4 +20,4 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylanebiazoto&layout=compact&theme=vision-friendly-dark" alt="kaylane's most languages"/>
 </p>
 <br></br>
-![Snake animation](https://github.com/KaylaneBiazoto/KaylaneBiazoto/blob/output/github-contribution-grid-snake.svg)
+
