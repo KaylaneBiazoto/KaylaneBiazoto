@@ -5,8 +5,6 @@
 - ✨ Parte do Projeto Conectadas UEM
 - 💻 Interessada em desenvolvimento
 
-<br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -17,19 +15,6 @@
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 
 
-<br><br>
-
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylanebiazoto&layout=compact&theme=vision-friendly-dark" alt="kaylane's most languages"/>
 </p>
--->
-
-<br><br>
-
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-
