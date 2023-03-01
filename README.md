@@ -4,6 +4,7 @@
 - 👩‍🎓 Aluna na Universidade Estadual de Maringá
 - ✨ Parte do Projeto Conectadas UEM
 - 💻 Interessada em desenvolvimento
+- 
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -13,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
+
 
 
 <p align="left">
