@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Kaylane Biazoto!</h1>
+<h1 align="center">Olá 👋, eu sou Kaylane!</h1>
 <h3 align="center">Atualmente estou no 2° ano de Informática da UEM.</h3>
 
 - 🔭 Estou criando um **Gerador de Memes!**
