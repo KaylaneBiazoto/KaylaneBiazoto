@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, eu sou Kaylane!</h1>
-<h3 align="center">Atualmente estou no 3° ano de Informática da UEM.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
